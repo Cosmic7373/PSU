@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1569466482,,"wq"
 :q
 |2,0,1569464113,,"q"
 :q!
@@ -27,14 +29,38 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.git/info/exclude
-|4,48,1,0,1569464113,"~/.git/info/exclude"
+'0  1  1  ~/.gitignore
+|4,48,1,1,1569466482,"~/.gitignore"
+'1  8  7  ~/.gitignore
+|4,49,8,7,1569466228,"~/.gitignore"
+'2  1  0  ~/.git/info/exclude
+|4,50,1,0,1569464113,"~/.git/info/exclude"
 
 # Jumplist (newest first):
+-'  1  1  ~/.gitignore
+|4,39,1,1,1569466482,"~/.gitignore"
+-'  8  7  ~/.gitignore
+|4,39,8,7,1569466228,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1569466165,"~/.gitignore"
+-'  1  0  ~/.git/info/exclude
+|4,39,1,0,1569464113,"~/.git/info/exclude"
+-'  1  0  ~/.git/info/exclude
+|4,39,1,0,1569464113,"~/.git/info/exclude"
+-'  1  0  ~/.git/info/exclude
+|4,39,1,0,1569464113,"~/.git/info/exclude"
 -'  1  0  ~/.git/info/exclude
 |4,39,1,0,1569464113,"~/.git/info/exclude"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1569466481	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	89
+	+	1	1
 
 > ~/.git/info/exclude
 	*	1569464054	0
